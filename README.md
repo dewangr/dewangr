@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dewangr
+- 👋 Hi, I’m Dewa Ngurah
 - 👀 I’m interested in web programming and data 
 - 📫 Text me on dewahendrawan99@gmail.com or LinkedIn: www.linkedin.com/in/i-dewa-ngurah-tri-hendrawan
 
