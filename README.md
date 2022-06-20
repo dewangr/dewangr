@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dewangr
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning flask
+- 👀 I’m interested in web programming and data 
 - 📫 Text me on dewahendrawan99@gmail.com or LinkedIn: www.linkedin.com/in/i-dewa-ngurah-tri-hendrawan
 
 <!---
