@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dewa Ngurah
-- 👀 I’m interested in web programming and data 
+- 👀 I’m interested in web programming and data-related fields
 - 📫 Text me on dewahendrawan99@gmail.com or www.linkedin.com/in/dewangurah3
 
 <!---
